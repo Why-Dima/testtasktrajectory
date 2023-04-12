@@ -1,0 +1,53 @@
+html {
+  background-color: rgba(0, 191, 255, 0.521);
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(0, 191, 255, 0.847);
+}
+
+.car {
+  box-shadow: 0 5px 11px 0 rgba(12, 3, 140, 0.2);
+  background-color: rgba(0, 255, 123, 0.616);
+  transition: 0.3s;
+  padding: 2px 160px;
+  border-radius: 5px;
+  max-width: 300px;
+  text-align: center;
+  margin-left: 415px;
+}
+
+.upd {
+  background-color: green;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 15px;
+}
+
+.del {
+  background-color: red;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 15px;
+}
+
+.asc {
+  background-color: aqua;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.y {
+  background-color: aqua;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.add {
+  background-color: rgba(0, 255, 123, 0.616);
+  border-radius: 5 px;
+  margin-left: 900px;
+}
